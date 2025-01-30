@@ -1,0 +1,15 @@
+/workspaces/nuevoRepo/bin/Debug/net8.0/nuevoRepo
+/workspaces/nuevoRepo/bin/Debug/net8.0/nuevoRepo.deps.json
+/workspaces/nuevoRepo/bin/Debug/net8.0/nuevoRepo.runtimeconfig.json
+/workspaces/nuevoRepo/bin/Debug/net8.0/nuevoRepo.dll
+/workspaces/nuevoRepo/bin/Debug/net8.0/nuevoRepo.pdb
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.AssemblyInfoInputs.cache
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.AssemblyInfo.cs
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.csproj.CoreCompileInputs.cache
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.sourcelink.json
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.dll
+/workspaces/nuevoRepo/obj/Debug/net8.0/refint/nuevoRepo.dll
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.pdb
+/workspaces/nuevoRepo/obj/Debug/net8.0/nuevoRepo.genruntimeconfig.cache
+/workspaces/nuevoRepo/obj/Debug/net8.0/ref/nuevoRepo.dll
