@@ -7,3 +7,5 @@ un commit más desde github
 una actualización más :)))
 
 cambios desde mi rama local
+
+cambios desde dev editor
